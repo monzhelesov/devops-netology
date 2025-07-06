@@ -1,12 +1,6 @@
 # devops-netology
 
-В файле `.gitignore` указаны шаблоны, по которым Git будет игнорировать определённые файлы и каталоги:
+Домашнее задание к занятию «Основы Git»
 
-- `.terraform/` — будет игнорироваться весь каталог `.terraform` и всё его содержимое.
-- `*.tfstate` — будут игнорироваться все файлы, у которых расширение `.tfstate`, например, `main.tfstate`, `prod.tfstate` и т.д.
-- `*.tfstate.backup` — будут игнорироваться все резервные копии файлов состояния.
-- `crash.log` — будет проигнорирован файл с логами сбоев.
-- `*.tfvars` — будут игнорироваться все файлы, содержащие переменные Terraform.
-- `override.tf`, `override.tf.json` — игнорируются эти конфигурационные файлы переопределения.
-- `*_override.tf`, `*_override.tf.json` — любые файлы, название которых оканчивается на `_override.tf` или `_override.tf.json`.
-- `.terraformrc`, `terraform.rc` — конфигурационные файлы пользователя Terraform будут проигнорированы.
+1. https://github.com/monzhelesov/devops-netology
+2. https://gitlab.com/monzhelesov/devops-netology
